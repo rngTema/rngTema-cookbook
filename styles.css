@@ -3,6 +3,7 @@ body {
     color: #cc5500;
     background-color: #D3D3D3 !important;
     text-align: center;
+    margin-bottom: 5px;
 }
 
 
@@ -29,4 +30,10 @@ ul.ulist {
 ol.olist {
     display: inline-block;
     text-align: left;
+}
+
+div.return {
+    position: fixed;
+    bottom: 0;
+    width: 100%
 }
