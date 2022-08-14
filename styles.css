@@ -1,0 +1,26 @@
+
+body {
+    color: #cc5500;
+    background-color: #D3D3D3 !important;
+    text-align: center;
+}
+
+
+.lasagna-img {
+    width: 300px;
+    height: auto;
+}
+.pasta-pesto-img { 
+    width: 300px;
+    height: auto;
+}
+
+
+/* Code for alligning lists */
+div.list {
+    padding-left: 5%;
+    padding-right: 5%;
+    margin: 0px;
+    background:lightcyan; //for visualization only
+  }
+
