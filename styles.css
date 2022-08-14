@@ -25,3 +25,8 @@ ul.ulist {
     display: inline-block;
     text-align: left;
 }
+
+ol.olist {
+    display: inline-block;
+    text-align: left;
+}
