@@ -18,9 +18,10 @@ body {
 
 /* Code for alligning lists */
 div.list {
-    padding-left: 5%;
-    padding-right: 5%;
-    margin: 0px;
-    background:lightcyan; //for visualization only
-  }
+    text-align: center;
+}
 
+ul.ulist {
+    display: inline-block;
+    text-align: left;
+}
